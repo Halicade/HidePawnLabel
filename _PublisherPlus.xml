@@ -3,9 +3,8 @@
   <Excluded>
     <exclude>.git</exclude>
     <exclude>.idea</exclude>
-    <exclude>.run</exclude>
+    <exclude>Assemblies\HidePawnLabel.pdb</exclude>
     <exclude>HidePawnLabel.sln</exclude>
-    <exclude>packages</exclude>
     <exclude>Source</exclude>
   </Excluded>
 </Configuration>
